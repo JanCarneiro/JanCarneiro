@@ -1,4 +1,4 @@
-### Olá, eu sou o Janderson 🙂
+### Sobre mim: 
 
 Atualmente trabalho como Assistente de Dados com foco em sustentação para o ambiente de engenharia de dados, além disso estou cursando o último semestre de Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP) e graduado em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba em 2020.
 
