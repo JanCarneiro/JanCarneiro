@@ -6,7 +6,7 @@ Atualmente trabalho como Engenheiro de Dados com foco em sustentação para o am
 <div style="display: inline_block" align = "center">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Databricks" height="35" width="35" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/dbrx-color.png">
-  <img align="center" alt="SQLServer" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+  <img align="center" alt="SQLServer" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="Azure DataFactory" height="30" width="40" src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg">
