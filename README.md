@@ -1,6 +1,6 @@
 ### Sobre mim: 
 
-Atualmente trabalho como Engenheiro de Dados com foco em sustentação para o ambiente de engenharia de dados, além disso estou cursando o último semestre de Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP) e graduado em Gestão da Tecnologia da Informação pela FATEC Itaquaquecetuba em 2020.
+Como Engenheiro de Dados atuo estruturando e mantendo ambientes de dados eficientes. Além disso, possuo habilidades com a sustentação desess ambientes, resolvendo falhas, inconsistências e diversos problemas que surgem em um ambiente de dados, garantindo que estejam disponíveis e íntegros.
 
 ##
 <div style="display: inline_block" align = "center">
@@ -14,6 +14,8 @@ Atualmente trabalho como Engenheiro de Dados com foco em sustentação para o am
   <img align="center" alt="Jupyter Notebook" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Apache Airflow" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Apache Spark" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg">
+  <img align="center" alt="Terraform" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="DBT" height="35" width="35" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dbt.svg">
 </div>
 
 
